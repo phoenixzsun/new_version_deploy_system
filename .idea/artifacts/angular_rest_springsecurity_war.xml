@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="angular-rest-springsecurity:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="angular-rest-springsecurity-0.2.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="angular-rest-springsecurity:war exploded" />
+    </root>
+  </artifact>
+</component>
